@@ -14,6 +14,9 @@ app.get("/", (req, res) => {
       <li><a href="/travel">Countries I Want to Visit</a></li>
       <li><a href="/fear">Things I Have Phobia From</a></li>
       <li><a href="/sports">Sports I Watch</a></li>
+      <li><a href="/sports">Sports I Watch</a></li>
+      <li><a href="/sports">Sports I Watch</a></li>
+      <li><a href="/sports">Sports I Watch</a></li>
     </ul>
   `);
 });
